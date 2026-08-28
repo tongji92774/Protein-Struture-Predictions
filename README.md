@@ -1,1 +1,1 @@
-This part inculdes a research paper about "force balance" problem in protein struture prediction(DOI 10.5281/zenodo.21231942), the original computer codes used in this paper are also included. 
+This part inculdes two preprint research papers(DOI 10.5281/zenodo.21231942 and 10.5281/zenodo.22141789) about protein structure predictions using force balance principal in engineering mechanics, the original computer codes used in the two papers are also included. 
