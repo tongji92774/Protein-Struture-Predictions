@@ -1,0 +1,2 @@
+For example, in the computer program: "Whale_Myoglobin_1CQ2_MainChain_nonBackbonePortion_N_CA_C_atoms_ForceBalance.nb"
+Build a datafile like 1CQ21.cif, remove the "#" mark at the end of the file.
