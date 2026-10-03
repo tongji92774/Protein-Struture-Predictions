@@ -1,1 +1,1 @@
-This part inculdes two preprint research papers(DOI 10.5281/zenodo.21231942 and 10.5281/zenodo.22141789) about protein structure predictions using force balance principal in engineering mechanics, the original computer codes used in the two papers are also included. 
+This part inculdes 3 preprint research papers(DOI 10.5281/zenodo.21231942,10.5281/zenodo.22141789 and 10.5281/zenodo.23116824) about protein structure predictions using force balance principal in engineering mechanics, the original computer codes used in the two papers are also included. 
